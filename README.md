@@ -16,8 +16,7 @@ Percentage-based scoring.
 Retake quiz or navigate back to the main menu.
 Modular design for easy updates.
 Directory Structure
-bash
-Copy code
+
 /BiologyQuizApp
     /BiologyQuizApp
         MainWindow.xaml
@@ -51,7 +50,5 @@ To add more questions:
 
 Open QuizWindow.xaml.cs.
 Add a new Question object to the questions list:
-csharp
-Copy code
 new Question("Your question here?",
-             new string[] { "Option1", "Option2", "Option3", "Option4" }, correctOptionI
+             new string[] { "Option1", "Option2", "Option3", "Option4" }, correctOptionIndex),
