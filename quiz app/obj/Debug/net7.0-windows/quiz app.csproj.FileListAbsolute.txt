@@ -1,0 +1,21 @@
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\quiz app_MarkupCompile.cache
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\bin\Debug\net7.0-windows\quiz app.exe
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\bin\Debug\net7.0-windows\quiz app.deps.json
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\bin\Debug\net7.0-windows\quiz app.runtimeconfig.json
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\bin\Debug\net7.0-windows\quiz app.dll
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\bin\Debug\net7.0-windows\quiz app.pdb
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\QuizWindow.baml
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\QuizWindow.g.cs
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\quiz app.g.resources
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\quiz app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\quiz app.AssemblyInfoInputs.cache
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\quiz app.AssemblyInfo.cs
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\quiz app.csproj.CoreCompileInputs.cache
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\quiz app.dll
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\refint\quiz app.dll
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\quiz app.pdb
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\quiz app.genruntimeconfig.cache
+C:\Users\Oluwatidemilade\source\repos\quiz app\quiz app\obj\Debug\net7.0-windows\ref\quiz app.dll

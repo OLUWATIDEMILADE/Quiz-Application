@@ -1,0 +1,29 @@
+﻿<Window x:Class="BiologyQuizApp.ResultsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Results" Height="500" Width="500"
+        Background="Green">
+    <Grid>
+        <TextBlock x:Name="ResultsText" 
+                   FontSize="18" 
+                   Foreground="White" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Top" 
+                   Margin="20" 
+                   TextWrapping="Wrap" />
+        <StackPanel Orientation="Horizontal" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Bottom" 
+                    Margin="0,0,0,30">
+            <Button Content="Retake Quiz" 
+                    Width="120" 
+                    Height="40" 
+                    Click="RetakeQuiz_Click" />
+            <Button Content="Main Menu" 
+                    Width="120" 
+                    Height="40" 
+                    Click="MainMenu_Click" />
+        </StackPanel>
+    </Grid>
+</Window>
+

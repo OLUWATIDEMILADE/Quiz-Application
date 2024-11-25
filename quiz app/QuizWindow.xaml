@@ -1,0 +1,39 @@
+﻿<Window x:Class="BiologyQuizApp.QuizWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Biology Quiz" Height="400" Width="600"
+        Background="Green">
+    <Grid>
+        <!-- Question Text -->
+        <TextBlock x:Name="QuestionText" 
+                   FontSize="20" 
+                   FontWeight="Bold" 
+                   Foreground="White" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Top" 
+                   Margin="10,20,10,0" 
+                   TextWrapping="Wrap" 
+                   Text="Question will appear here" />
+
+        <!-- Answer Options -->
+        <StackPanel x:Name="AnswersPanel" 
+                    Orientation="Vertical" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Center" 
+                    Margin="10" 
+                    >
+            <!-- Answer buttons will be dynamically added here -->
+        </StackPanel>
+
+        <!-- Feedback Text -->
+        <TextBlock x:Name="FeedbackText" 
+                   FontSize="16" 
+                   Foreground="White" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Bottom" 
+                   Margin="10,0,10,30" 
+                   Text="Feedback will appear here" />
+    </Grid>
+</Window>
+
+
